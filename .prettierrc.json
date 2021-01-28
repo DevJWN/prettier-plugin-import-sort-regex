@@ -1,0 +1,5 @@
+{
+  "printWidth": 150,
+  "importSortGroups": ["^prettier", "", "^import-sort", "", "^\\.\\.?/"],
+  "plugins": ["./lib"]
+}
